@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Повтори за обезьянкой</string>
+    <string name="game_over">Игра окончена!</string>
+    <string name="best_scores">Рекорды</string>
+</resources>
